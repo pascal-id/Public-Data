@@ -111,13 +111,32 @@
           "title": "A.I. Enthusiast, PhD candidate at HUFS, Republic of Korea"
         }
       ],
-      "banner": "20201010-19",
+      "banner": "20201010-19.jpg",
       "url": "",
       "description": "",
       "others": {
         "Registration_url": "",
         "Presentation_url": "",
         "Video_url": "https://youtu.be/qOdAoPj_Les"
+      }
+    }{
+      "name": "PascalTalk #5: UX; Research, Design and Engineer",
+      "date": "2020/09/26",
+      "time": "19:30 - 21:00",
+      "type": "PascalTalk",
+      "speaker": [
+        {
+          "name": "Prayudi Utomo",
+          "title": "Head of Kolla Education; UX Engineer"
+        }
+      ],
+      "banner": "20200926.jpg",
+      "url": "",
+      "description": "",
+      "others": {
+        "Registration_url": "",
+        "Presentation_url": "",
+        "Video_url": "https://youtu.be/J1SGzTUvcwQ"
       }
     }
   ]
