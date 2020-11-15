@@ -139,6 +139,42 @@
         "Presentation_url": "",
         "Video_url": "https://youtu.be/J1SGzTUvcwQ"
       }
+    },
+    {
+      "name": "PascalTalk4: Obrolan Ringan Seputar IT",
+      "date": "2020/00/00",
+      "time": "19:30 - 21:00",
+      "type": "PascalTalk",
+      "speaker": [
+        {
+          "name": "Luri Darmawan",
+          "title": "Founder Carik Bot Carik.id"
+        },
+        {
+          "name": "Cahyo Sasongko",
+          "title": "Founder Ajaro.id"
+        },
+        {
+          "name": "Tigor M Manurung",
+          "title": "IT Developer"
+        },
+        {
+          "name": "Nur Hidayat",
+          "title": "IT Enterprise Developer"
+        },
+        {
+          "name": "Bambang Wahyudi",
+          "title": "IT Goverment Developer"
+        }
+      ],
+      "banner": "20200912.jpg",
+      "url": "",
+      "description": "Mau berkarir di mana dan apa yang perlu dipersiapkan?",
+      "others": {
+        "Registration_url": "",
+        "Presentation_url": "",
+        "Video_url": "https://youtu.be/PYJ8VTYJReY"
+      }
     }
   ]
 }
