@@ -16,6 +16,8 @@ see [events.json](data/events.json)
 - [PascalClass #3: Web Development with Free Pascal](#pascalclass-3-web-development-with-free-pascal)
 - [PascalClass #2: Machine Learning Recommender and Prediction System](#pascalclass-2-machine-learning-recommender-and-prediction-system)
 - [PascalClass #1: Database Analysis and Design](#pascalclass-1-database-analysis-and-design)
+- [Kulgram: Instalasi Lazarus di Perangkat Berbasis ARM](#kulgram-instalasi-lazarus-di-perangkat-berbasis-arm)
+- [PascalTalk #6: Kuliah IT di luar negeri, susah gak sih?](#pascaltalk-6-kuliah-it-di-luar-negeri-susah-gak-sih)
 
 ### PascalTalk #7: Getting Started to Data Engineering
 
@@ -48,6 +50,22 @@ see [events.json](data/events.json)
 - Pembicara: 
   - Nur Hidayat, IT Enterprise Developer
 - [Video](https://www.youtube.com/playlist?list=PL1mjxpqu6OU53zJcwkLWFF03-tNKwhZtq)
+
+### Kulgram: Instalasi Lazarus di Perangkat Berbasis ARM
+
+- Tanggal: 2020/10/21
+- Pukul: 19:30 - 21:00
+- Pembicara: 
+  - Andi Wangsadijaya, SE, IT Developer
+- https://t.me/pascalid
+
+### PascalTalk #6: Kuliah IT di luar negeri, susah gak sih?
+
+- Tanggal: 2020/10/10
+- Pukul: 19:30 - 21:00
+- Pembicara: 
+  - Aria Ghora Prabono, A.I. Enthusiast, PhD candidate at HUFS, Republic of Korea
+- [Video](https://youtu.be/qOdAoPj_Les)
 
 
 ## Bantu kami
