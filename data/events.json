@@ -79,6 +79,46 @@
         "Video_url": "https://www.youtube.com/playlist?list=PL1mjxpqu6OU53zJcwkLWFF03-tNKwhZtq",
         "Presentation_url": ""
       }
+    },
+    {
+      "name": "Kulgram: Instalasi Lazarus di Perangkat Berbasis ARM",
+      "date": "2020/10/21",
+      "time": "19:30 - 21:00",
+      "type": "Kulgram",
+      "speaker": [
+        {
+          "name": "Andi Wangsadijaya, SE",
+          "title": "IT Developer"
+        }
+      ],
+      "banner": "20201021-19.jpg",
+      "url": "https://t.me/pascalid",
+      "description": "",
+      "others": {
+        "Registration_url": "",
+        "Presentation_url": "",
+        "Video_url": ""
+      }
+    },
+    {
+      "name": "PascalTalk #6: Kuliah IT di luar negeri, susah gak sih?",
+      "date": "2020/10/10",
+      "time": "19:30 - 21:00",
+      "type": "PascalTalk",
+      "speaker": [
+        {
+          "name": "Aria Ghora Prabono",
+          "title": "A.I. Enthusiast, PhD candidate at HUFS, Republic of Korea"
+        }
+      ],
+      "banner": "20201010-19",
+      "url": "",
+      "description": "",
+      "others": {
+        "Registration_url": "",
+        "Presentation_url": "",
+        "Video_url": "https://youtu.be/qOdAoPj_Les"
+      }
     }
   ]
 }
