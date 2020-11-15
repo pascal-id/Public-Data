@@ -4,9 +4,9 @@
 
 Pascal Indonesia - Public Data
 
-## Last Event
+## Past Event
 
-![Last Event](files/image/events/20201115-19.jpg)
+![Past Event](files/image/events/20201115-19.jpg)
 
 ## Daftar Event 2020
 
@@ -18,6 +18,7 @@ see [events.json](data/events.json)
 - [PascalClass #1: Database Analysis and Design](#pascalclass-1-database-analysis-and-design)
 - [Kulgram: Instalasi Lazarus di Perangkat Berbasis ARM](#kulgram-instalasi-lazarus-di-perangkat-berbasis-arm)
 - [PascalTalk #6: Kuliah IT di luar negeri, susah gak sih?](#pascaltalk-6-kuliah-it-di-luar-negeri-susah-gak-sih)
+- [PascalTalk #5: UX; Research, Design and Engineer](#pascaltalk-5-ux-research-design-and-engineer)
 
 ### PascalTalk #7: Getting Started to Data Engineering
 
@@ -66,6 +67,14 @@ see [events.json](data/events.json)
 - Pembicara: 
   - Aria Ghora Prabono, A.I. Enthusiast, PhD candidate at HUFS, Republic of Korea
 - [Video](https://youtu.be/qOdAoPj_Les)
+
+### PascalTalk #5: UX; Research, Design and Engineer
+
+- Tanggal: 2020/09/26
+- Pukul: 19:30 - 21:00
+- Pembicara: 
+  - Prayudi Utomo, Head of Kolla Education; UX Engineer
+- [Video](https://youtu.be/J1SGzTUvcwQ)
 
 
 ## Bantu kami
