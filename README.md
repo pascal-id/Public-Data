@@ -82,7 +82,7 @@ see [events.json](data/events.json)
 
 ### PascalTalk4: Obrolan Ringan Seputar IT
 
-- Tanggal: 2020/00/00
+- Tanggal: 2020/09/12
 - Pukul: 19:30 - 21:00
 - Pembicara: 
   - Luri Darmawan, Founder Carik Bot Carik.id
