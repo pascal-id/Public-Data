@@ -175,6 +175,74 @@
         "Presentation_url": "",
         "Video_url": "https://youtu.be/PYJ8VTYJReY"
       }
+    },
+    {
+      "name": "PascalTalk #3: RADically Fast and Easy Mobile Apps Development",
+      "date": "2020/08/22",
+      "time": "19:30 - 21:00",
+      "type": "PascalTalk",
+      "speaker": [
+        {
+          "name": "Fajar Donny Bachtiar",
+          "title": "Mobile Developer"
+        }
+      ],
+      "banner": "20200822.jpg",
+      "url": "",
+      "description": "",
+      "others": {
+        "Registration_url": "",
+        "Presentation_url": "",
+        "Video_url": "https://web.facebook.com/groups/Pascal.ID/permalink/3877752775573143/"
+      }
+    },
+    {
+      "name": "PascalTalk #2: Membuat Sendiri Smart Home",
+      "date": "2020/08/08",
+      "time": "19:30 - 21:00",
+      "type": "PascalTalk",
+      "speaker": [
+        {
+          "name": "Mario Ray Mahardika",
+          "title": "Software Engineer, Sirclo"
+        }
+      ],
+      "banner": "20200808.jpg",
+      "url": "",
+      "description": "",
+      "others": {
+        "Registration_url": "",
+        "Presentation_url": "",
+        "Video_url": "https://web.facebook.com/groups/Pascal.ID/permalink/3831538586861229/"
+      }
+    },
+    {
+      "name": "PascalTalk #1: Pemanfaatan Artificial Intelligence di Masa Covid-19",
+      "date": "2020/07/25",
+      "time": "19:30 - 21:00",
+      "type": "PascalTalk",
+      "speaker": [
+        {
+          "name": "Aria Ghora Prabono",
+          "title": "A.I Enthusiast"
+        },
+        {
+          "name": "Luri Darmawan",
+          "title": "Founder Carik Bot @ Carik.id"
+        },
+        {
+          "name": "Tigor M Manurung",
+          "title": "IT Developer"
+        }
+      ],
+      "banner": "20200725.jpg",
+      "url": "",
+      "description": "",
+      "others": {
+        "Registration_url": "",
+        "Presentation_url": "",
+        "Video_url": ""
+      }
     }
   ]
 }
