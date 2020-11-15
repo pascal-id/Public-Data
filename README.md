@@ -14,6 +14,8 @@ see [events.json](data/events.json)
 
 - [PascalTalk #7: Getting Started to Data Engineering](#pascaltalk-7-getting-started-to-data-engineering)
 - [PascalClass #3: Web Development with Free Pascal](#pascalclass-3-web-development-with-free-pascal)
+- [PascalClass #2: Machine Learning Recommender & Prediction System](#pascalclass-2-machine-learning-recommender-prediction-system)
+- [PascalClass #1: Database Analysis & Design](#pascalclass-1-database-analysis-design)
 
 ### PascalTalk #7: Getting Started to Data Engineering
 
@@ -30,6 +32,22 @@ see [events.json](data/events.json)
 - Pembicara: 
   - Luri Darmawan, Founder, Carik.id
 - [Video](https://youtu.be/6871Qw7MkMY)
+
+### PascalClass #2: Machine Learning Recommender & Prediction System
+
+- Tanggal: 2020/11/31
+- Pukul: 19:30 - 21:00
+- Pembicara: 
+  - Aria Ghora Prabono, A.I. Enthusiast, PhD candidate at HUFS, Republic of Korea
+- [Video](https://www.youtube.com/playlist?list=PL1mjxpqu6OU6B8wtDB26vdNl7nfgjMYGN)
+
+### PascalClass #1: Database Analysis & Design
+
+- Tanggal: 2020/10/26
+- Pukul: 19:30 - 21:00
+- Pembicara: 
+  - Nur Hidayat, IT Enterprise Developer
+- [Video](https://www.youtube.com/playlist?list=PL1mjxpqu6OU53zJcwkLWFF03-tNKwhZtq)
 
 
 ## Bantu kami
