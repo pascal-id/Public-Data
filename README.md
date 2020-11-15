@@ -42,4 +42,4 @@ Kami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.
 
 ----
 
-©️ 2020 by [Pascal Indonesia](https://pascal-id.org) Team
+©️ 2020 by [Pascal Indonesia](https://pascal-id.org) Team | [Donasi](https://pascal-id.org/donasi)
