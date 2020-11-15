@@ -74,7 +74,7 @@ const main = async () => {
     readmeFooter += "\nPantau grup [Facebook Pascal Indonesia](https://www.facebook.com/groups/pascalid) dan silahkan perbarui data setiap kali ada sesi baru.\n";
     readmeFooter += "\nKami sangat berterima kasih untuk setiap bantuan yang teman-teman berikan.\n";
     readmeFooter += "\n----\n";
-    readmeFooter += "\n©️ 2020 by [Pascal Indonesia](https://pascal-id.org) Team";
+    readmeFooter += "\n©️ 2020 by [Pascal Indonesia](https://pascal-id.org) Team | [Donasi](https://pascal-id.org/donasi)";
 
     readmeContent = readmeHeader + lastEvent + tableOfContents + readmeContent + readmeFooter;
     console.log(readmeContent);
