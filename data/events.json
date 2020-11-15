@@ -39,5 +39,46 @@
         "Video_url": "https://youtu.be/6871Qw7MkMY",
         "Presentation_url": ""
       }
-    }  ]
+    },
+    {
+      "name": "PascalClass #2: Machine Learning Recommender & Prediction System",
+      "date": "2020/11/31",
+      "time": "19:30 - 21:00",
+      "type": "PascalClass",
+      "speaker": [
+        {
+          "name": "Aria Ghora Prabono",
+          "title": "A.I. Enthusiast, PhD candidate at HUFS, Republic of Korea"
+        }
+      ],
+      "banner": "20201131-19.jpg",
+      "url": "",
+      "description": "Class Series: 31 Oct, 1 Nov, 7 Nov, 8 Nov 2020",
+      "others": {
+        "Registration_url": "",
+        "Video_url": "https://www.youtube.com/playlist?list=PL1mjxpqu6OU6B8wtDB26vdNl7nfgjMYGN",
+        "Presentation_url": ""
+      }
+    },
+    {
+      "name": "PascalClass #1: Database Analysis & Design",
+      "date": "2020/10/26",
+      "time": "19:30 - 21:00",
+      "type": "PascalClass",
+      "speaker": [
+        {
+          "name": "Nur Hidayat",
+          "title": "IT Enterprise Developer"
+        }
+      ],
+      "banner": "20201026-19.jpg",
+      "url": "",
+      "description": "Class Series: 26 oct, 29 oct, 2 nov, 5 nov 2020",
+      "others": {
+        "Registration_url": "",
+        "Video_url": "https://www.youtube.com/playlist?list=PL1mjxpqu6OU53zJcwkLWFF03-tNKwhZtq",
+        "Presentation_url": ""
+      }
+    }
+  ]
 }
