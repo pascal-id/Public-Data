@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "name": "PascalTalk #7: Getting Started to Data Engineering",
+      "date": "2020/11/15",
+      "time": "19:30 - 21:00",
+      "type": "PascalTalk",
+      "speaker": [
+        {
+          "name": "Yuli",
+          "title": "IT Core and Data Reporting, Bhinnekalife"
+        }
+      ],
+      "banner": "20201115-19.jpg",
+      "url": "",
+      "description": "",
+      "others": {
+        "Registration_url": "",
+        "Video_url": "https://www.youtube.com/watch?v=5HAlT5-uwvg",
+        "Presentation_url": ""
+      }
+    },
+    {
+      "name": "PascalClass #3: Web Development with Free Pascal",
+      "date": "2020/11/14",
+      "time": "19:30 - 21:00",
+      "type": "PascalClass",
+      "speaker": [
+        {
+          "name": "Luri Darmawan",
+          "title": "Founder, Carik.id"
+        }
+      ],
+      "banner": "20201114-19.jpg",
+      "url": "",
+      "description": "",
+      "others": {
+        "Registration_url": "",
+        "Video_url": "https://youtu.be/6871Qw7MkMY",
+        "Presentation_url": ""
+      }
+    }  ]
+}

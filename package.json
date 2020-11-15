@@ -1,0 +1,23 @@
+{
+  "name": "Pascal-Indonesia-Public-Data",
+  "version": "1.0.0",
+  "description": "Pascal Indonesia - Public Data",
+  "main": "toReadme.js",
+  "scripts": {
+    "toReadme": "node ./toReadme.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pascal-id/Public-Data.git"
+  },
+  "author": "Pascal Indonesia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pascal-id/Public-Data/issues"
+  },
+  "homepage": "https://github.com/pascal-id/Public-Data#readme",
+  "dependencies": {
+  }
+}
+
