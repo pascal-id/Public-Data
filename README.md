@@ -19,6 +19,7 @@ see [events.json](data/events.json)
 - [Kulgram: Instalasi Lazarus di Perangkat Berbasis ARM](#kulgram-instalasi-lazarus-di-perangkat-berbasis-arm)
 - [PascalTalk #6: Kuliah IT di luar negeri, susah gak sih?](#pascaltalk-6-kuliah-it-di-luar-negeri-susah-gak-sih)
 - [PascalTalk #5: UX; Research, Design and Engineer](#pascaltalk-5-ux-research-design-and-engineer)
+- [PascalTalk4: Obrolan Ringan Seputar IT](#pascaltalk4-obrolan-ringan-seputar-it)
 
 ### PascalTalk #7: Getting Started to Data Engineering
 
@@ -75,6 +76,18 @@ see [events.json](data/events.json)
 - Pembicara: 
   - Prayudi Utomo, Head of Kolla Education; UX Engineer
 - [Video](https://youtu.be/J1SGzTUvcwQ)
+
+### PascalTalk4: Obrolan Ringan Seputar IT
+
+- Tanggal: 2020/00/00
+- Pukul: 19:30 - 21:00
+- Pembicara: 
+  - Luri Darmawan, Founder Carik Bot Carik.id
+  - Cahyo Sasongko, Founder Ajaro.id
+  - Tigor M Manurung, IT Developer
+  - Nur Hidayat, IT Enterprise Developer
+  - Bambang Wahyudi, IT Goverment Developer
+- [Video](https://youtu.be/PYJ8VTYJReY)
 
 
 ## Bantu kami
