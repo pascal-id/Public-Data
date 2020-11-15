@@ -20,6 +20,9 @@ see [events.json](data/events.json)
 - [PascalTalk #6: Kuliah IT di luar negeri, susah gak sih?](#pascaltalk-6-kuliah-it-di-luar-negeri-susah-gak-sih)
 - [PascalTalk #5: UX; Research, Design and Engineer](#pascaltalk-5-ux-research-design-and-engineer)
 - [PascalTalk4: Obrolan Ringan Seputar IT](#pascaltalk4-obrolan-ringan-seputar-it)
+- [PascalTalk #3: RADically Fast and Easy Mobile Apps Development](#pascaltalk-3-radically-fast-and-easy-mobile-apps-development)
+- [PascalTalk #2: Membuat Sendiri Smart Home](#pascaltalk-2-membuat-sendiri-smart-home)
+- [PascalTalk #1: Pemanfaatan Artificial Intelligence di Masa Covid-19](#pascaltalk-1-pemanfaatan-artificial-intelligence-di-masa-covid-19)
 
 ### PascalTalk #7: Getting Started to Data Engineering
 
@@ -88,6 +91,31 @@ see [events.json](data/events.json)
   - Nur Hidayat, IT Enterprise Developer
   - Bambang Wahyudi, IT Goverment Developer
 - [Video](https://youtu.be/PYJ8VTYJReY)
+
+### PascalTalk #3: RADically Fast and Easy Mobile Apps Development
+
+- Tanggal: 2020/08/22
+- Pukul: 19:30 - 21:00
+- Pembicara: 
+  - Fajar Donny Bachtiar, Mobile Developer
+- [Video](https://web.facebook.com/groups/Pascal.ID/permalink/3877752775573143/)
+
+### PascalTalk #2: Membuat Sendiri Smart Home
+
+- Tanggal: 2020/08/08
+- Pukul: 19:30 - 21:00
+- Pembicara: 
+  - Mario Ray Mahardika, Software Engineer, Sirclo
+- [Video](https://web.facebook.com/groups/Pascal.ID/permalink/3831538586861229/)
+
+### PascalTalk #1: Pemanfaatan Artificial Intelligence di Masa Covid-19
+
+- Tanggal: 2020/07/25
+- Pukul: 19:30 - 21:00
+- Pembicara: 
+  - Aria Ghora Prabono, A.I Enthusiast
+  - Luri Darmawan, Founder Carik Bot @ Carik.id
+  - Tigor M Manurung, IT Developer
 
 
 ## Bantu kami
