@@ -21,8 +21,8 @@ const main = async () => {
       tableOfContents += "\n- [" + event.name + "](#"+link+")"; //todo: add hyperlink
 
       if ((indexEvent==1)&&(event.banner !== undefined)){
-        lastEvent = "\n## Last Event";
-        lastEvent += "\n\n![Last Event](files/image/events/" + event.banner + ")\n";
+        lastEvent = "\n## Past Event";
+        lastEvent += "\n\n![Past Event](files/image/events/" + event.banner + ")\n";
         //console.log(lastEvent);process.exit();
       }
 
