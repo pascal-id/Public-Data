@@ -47,7 +47,7 @@ see [events.json](data/events.json)
 - Pukul: 19:30 - 21:00
 - Pembicara: 
   - Luri Darmawan, Founder, Carik.id
-- [Video](https://youtu.be/6871Qw7MkMY)
+- [Video](https://www.youtube.com/playlist?list=PL1mjxpqu6OU7HYWd9qK49F-b0yHdxXf0D)
 
 ### PascalClass #2: Machine Learning Recommender and Prediction System
 
