@@ -6,12 +6,13 @@ Pascal Indonesia - Public Data
 
 ## Past Event
 
-![Past Event](files/image/events/20201115-19.jpg)
+![Past Event](files/image/events/20201204.jpg)
 
 ## Daftar Event 2020
 
 see [events.json](data/events.json)
 
+- [PascalTalk #7: Information Technology Business Agility with SCRUM](#pascaltalk-7-information-technology-business-agility-with-scrum)
 - [PascalTalk #7: Getting Started to Data Engineering](#pascaltalk-7-getting-started-to-data-engineering)
 - [PascalClass #3: Web Development with Free Pascal](#pascalclass-3-web-development-with-free-pascal)
 - [PascalClass #2: Machine Learning Recommender and Prediction System](#pascalclass-2-machine-learning-recommender-and-prediction-system)
@@ -23,6 +24,14 @@ see [events.json](data/events.json)
 - [PascalTalk #3: RADically Fast and Easy Mobile Apps Development](#pascaltalk-3-radically-fast-and-easy-mobile-apps-development)
 - [PascalTalk #2: Membuat Sendiri Smart Home](#pascaltalk-2-membuat-sendiri-smart-home)
 - [PascalTalk #1: Pemanfaatan Artificial Intelligence di Masa Covid-19](#pascaltalk-1-pemanfaatan-artificial-intelligence-di-masa-covid-19)
+
+### PascalTalk #7: Information Technology Business Agility with SCRUM
+
+- Tanggal: 2020/12/04
+- Pukul: 19:30 - 21:00
+- Pembicara: 
+  - Dony E (MbahDon), Sarastya Agility Partner
+- [Registration](https://www.pascal-id.org/registerpascaltalk/)
 
 ### PascalTalk #7: Getting Started to Data Engineering
 
