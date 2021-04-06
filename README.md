@@ -40,7 +40,7 @@ see [events.json](data/events.json)
 - Pukul: 19:30 - 21:00
 - Pembicara: 
   - Dony E (MbahDon), Sarastya Agility Partner
-- [Registration](https://www.pascal-id.org/registerpascaltalk/)
+- [Video](https://www.youtube.com/watch?v=Aa2bdxrzneI)
 
 ### PascalTalk #7: Getting Started to Data Engineering
 
