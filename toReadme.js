@@ -10,7 +10,7 @@ const main = async () => {
     readmeHeader += "\n![Generate README](https://github.com/pascal-id/Public-Data/workflows/Generate%20README/badge.svg)\n";
     readmeHeader += "\nPascal Indonesia - Public Data\n";
     var readmeContent = "\n";
-    var tableOfContents = "\n## Daftar Event 2020\n"
+    var tableOfContents = "\n## Daftar Event 2021\n"
     tableOfContents += "\nsee [events.json](data/events.json)\n";
     var count = dataAsJson.data.length;
     var lastEvent = "";
