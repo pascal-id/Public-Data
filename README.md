@@ -12,7 +12,7 @@ Pascal Indonesia - Public Data
 
 see [events.json](data/events.json)
 
-- [PascalTalks #10: Lazarus for Android](#pascaltalks-10-lazarus-for-android)
+- [PascalTalk #10: Lazarus for Android](#pascaltalk-10-lazarus-for-android)
 - [PascalTalk #9: Agile Manifesto based SDLC](#pascaltalk-9-agile-manifesto-based-sdlc)
 - [PascalTalk #8: Information Technology Business Agility with SCRUM](#pascaltalk-8-information-technology-business-agility-with-scrum)
 - [PascalTalk #7: Getting Started to Data Engineering](#pascaltalk-7-getting-started-to-data-engineering)
@@ -27,7 +27,7 @@ see [events.json](data/events.json)
 - [PascalTalk #2: Membuat Sendiri Smart Home](#pascaltalk-2-membuat-sendiri-smart-home)
 - [PascalTalk #1: Pemanfaatan Artificial Intelligence di Masa Covid-19](#pascaltalk-1-pemanfaatan-artificial-intelligence-di-masa-covid-19)
 
-### PascalTalks #10: Lazarus for Android
+### PascalTalk #10: Lazarus for Android
 
 - Tanggal: 2021/08/07
 - Pukul: 19:00 - 21:00
