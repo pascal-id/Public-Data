@@ -1,6 +1,26 @@
 {
   "data": [
     {
+      "name": "[PascalTalks #10] Lazarus for Android",
+      "date": "2021/08/07",
+      "time": "19:00 - 21:00",
+      "type": "PascalTalk",
+      "speaker": [
+        {
+          "name": "Ismail",
+          "title": ""
+        }
+      ],
+      "banner": "20210807.jpg",
+      "url": "",
+      "description": "Kali ini Pascal Indonesia akan kembali mengadakan PascalTalk #10 yang kali ini akan membahas tentang "Lazarus for Android". kita akan membahas bagaimana lazarus dapat beraksi di platform android dan mengikuti gaya terkini. Acara ini akan dibawakan oleh Mas Ismail yang merupakan penggiat Pascal Indonesia. Acara ini akan live di facebook Pascal Indonesia.",
+      "others": {
+        "Registration_url": "https://web.facebook.com/events/947060502809991/",
+        "Presentation_url": "",
+        "Video_url": ""
+      }
+    },    
+    {
       "name": "PascalTalk #9: Agile Manifesto based SDLC",
       "date": "2021/04/11",
       "time": "16:00 - 17:30",
