@@ -8,7 +8,7 @@ Pascal Indonesia - Public Data
 
 ![Past Event](files/image/events/20210807.jpg)
 
-## Daftar Event 2020
+## Daftar Event 2021
 
 see [events.json](data/events.json)
 
