@@ -34,6 +34,7 @@ see [events.json](data/events.json)
 - Pembicara: 
   - Ismail
 - [Registration](https://web.facebook.com/events/947060502809991/)
+- [Presentation](https://github.com/pascal-id/Public-Data/blob/master/files/presentation/10-lamw_presentation.odp)
 
 ### PascalTalk #9: Agile Manifesto based SDLC
 
